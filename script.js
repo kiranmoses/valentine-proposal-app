@@ -1,6 +1,6 @@
 function sayYes() {
     document.getElementById("result").innerText =
-        "Yayyyyy ❤️ Best decision ever!";
+        "Yayyyyy ❤️ Adhi Atta undaali, Let's go on a date in London!";
 }
 
 function moveButton() {
