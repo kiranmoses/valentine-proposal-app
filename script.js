@@ -1,6 +1,7 @@
 function sayYes() {
     document.getElementById("result").innerText =
-        "Yayyyyy ❤️, Let's go on a date in London!";
+        "Yayyyyy ❤️, That's my girl !!!
+        Let's go on a date in London!";
 }
 
 function moveButton() {
